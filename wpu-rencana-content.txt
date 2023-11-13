@@ -4,6 +4,7 @@ RENACANA KONTEN WPU
   *ES6
   *Framework Javascript
    ^veu
+   ^React
 -struktur Data Dasar
 -PHP Framewor
  ^laravel
